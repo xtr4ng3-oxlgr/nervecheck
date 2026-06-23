@@ -1,5 +1,7 @@
 # NERVECHECK
 
+<img width="1448" height="1086" alt="nervech" src="https://github.com/user-attachments/assets/24c43b84-55d6-4c16-a4ef-c10e41d65cbc" />
+
 **NERVECHECK** es una herramienta local de diagnóstico de PC para revisar rendimiento, estabilidad, memoria, disco, procesos, inicio de Windows, eventos críticos y estado general del sistema.
 
 Creado por **xtr4ng3**.
@@ -79,8 +81,11 @@ La compilación genera:
 CLIENTE_PORTABLE/
 ```
 
+
 ## Licencia
 
-MIT.
+<img width="384" height="384" alt="giphy (4)" src="https://github.com/user-attachments/assets/18d64b9e-fba8-493e-8462-f6722e0e64b7" />
 
 **xtr4ng3**
+
+MIT.
